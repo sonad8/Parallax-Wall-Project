@@ -1,0 +1,22 @@
+#container {
+	list-style:none;
+}
+#container li {
+	position: relative;
+}
+
+.scrollblock {
+	position: relative;
+	margin: 0;
+	width: 100%;
+	height: 2000px;
+}
+
+.empty { height: 1200px;}
+
+.columnleft { width: 45%; float: left; margin-right: 10px}
+.columnright { width: 50%; float: right;}
+.columnright img { width: 200px;}
+.columnleft img { width: 500px;}
+
+
